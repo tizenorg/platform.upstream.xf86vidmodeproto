@@ -1,0 +1,8 @@
+Change-Id: Ic6dc4413b970599246b9a2fe963ae35a7c454d27
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:39:02 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4945
+Project: platform/upstream/xf86vidmodeproto
+Branch: refs/heads/tizen
