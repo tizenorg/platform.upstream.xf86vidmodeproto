@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           xf86vidmodeproto
 Version:        2.3.1
 Release:        1
